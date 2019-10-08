@@ -1,4 +1,4 @@
-I"2<blockquote>
+I"1<blockquote>
   <p>比较水的 Personal Notes</p>
 </blockquote>
 
@@ -32,7 +32,7 @@ cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 
 <h2 id="修改主题">修改主题</h2>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>open ~/.zshrc 
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>open ~/.zshrc
 </code></pre></div></div>
 
 <p>修改 <code class="highlighter-rouge">ZSH_THEME=”robbyrussell”</code>，主题在 ~/.oh-my-zsh/themes 目录下。
